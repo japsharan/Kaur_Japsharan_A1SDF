@@ -44,3 +44,10 @@ branch 'main' set up to track 'origin/main'.
 - `cd`: [making changes in the current directory]
 - `code`: [open a file in VS code]
 - `ls`: [ write the contents of directory]
+## Importance of version control:
+
+for understanding the changes that is made by someone  and why, we can trace the modifications history.
+due to branches and merging features more than one developers can work on the same project without copying each other's work.
+VS code allows us to revert back if a change causes any issues.
+in case of system crashes version control system keeps backups of our code.
+
