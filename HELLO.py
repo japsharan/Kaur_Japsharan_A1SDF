@@ -1,7 +1,7 @@
 """Module Documentation"""
 
 __author__ = "Japsharan Kaur"
-__Version__ = "version here"
+__Version__ = "2025.19.1"
 
 print ("Hello World") 
 print ("purple")
