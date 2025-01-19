@@ -50,4 +50,15 @@ for understanding the changes that is made by someone  and why, we can trace the
 due to branches and merging features more than one developers can work on the same project without copying each other's work.
 VS code allows us to revert back if a change causes any issues.
 in case of system crashes version control system keeps backups of our code.
+## purpose of the following git commands:
 
+git init: [initialise new git repository]
+- git status: [represent current status]
+- git add: [stage changes]
+- git commit: [record changes]
+- git push: [upload commits]
+- git pull: [fetch changes]
+- git log: [shows commit history]
+- git branch: [create, lists, or delete branches]
+- git merge: [combine changes]
+- git checkout: [swithes between branches]
