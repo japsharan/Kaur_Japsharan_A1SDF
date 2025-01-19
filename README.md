@@ -62,3 +62,15 @@ git init: [initialise new git repository]
 - git branch: [create, lists, or delete branches]
 - git merge: [combine changes]
 - git checkout: [swithes between branches]
+
+
+#### My Unique Touch
+
+There are things that set me apart from others:
+
+-I am soft spoken
+-I am a keen reader
+-I like to help others
+-I like children
+-I also watched a youtube video on how to use vs code to sync with branches of github,
+however I am still using gitbash, because it is required by my assignment
